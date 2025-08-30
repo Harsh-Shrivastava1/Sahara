@@ -8,16 +8,16 @@
 
 ---
 
-## ✨ Vision  
+## Vision  
 
 Disasters don’t just destroy homes—they also impact mental well-being.  
 Sahara bridges **practical aid** and **emotional care**, becoming a one-stop hub where communities can unite to **save lives and support mental health**.  
 
 ---
 
-## 🚀 Features  
+## Features  
 
-### 🆘 Sahara (Disaster Relief)  
+###  Sahara (Disaster Relief)  
 - **Request Help** → Food, water, shelter, medical aid, financial support (auto-categorized & translated via AI).  
 - **Offer Help** → Volunteers/NGOs share availability & location.  
 - **Live Map (Leaflet.js)** →  
@@ -25,17 +25,17 @@ Sahara bridges **practical aid** and **emotional care**, becoming a one-stop hub
 - **NGO & Volunteer Dashboard** → Heatmaps, verified profiles, live activity feed.  
 - **Smart Suggestions** → Links material aid with emotional support when needed.  
 
-### 💙 Saathi (Mental Wellness)  
+###  Saathi (Mental Wellness)  
 - **AI Buddy (Groq-powered)** → Chat & voice-based support.  
 - **Sentiment Analysis** → Detects high-risk situations & escalates to hotlines.  
 - **Community Wall** → Safe, anonymous sharing of experiences.  
 - **Guided Flows** → “I feel lonely” → group support | “I feel anxious” → coping resources.  
 
-### 🎖️ Gamified Trust & Rewards  
+###  Gamified Trust & Rewards  
 - Contributor badges (*Food Hero, Relief Warrior, Wellness Guide*).  
 - Leaderboards + trust verification for NGOs & volunteers.  
 
-### 📊 Dashboards & Stats  
+###  Dashboards & Stats  
 - Personalized greetings (*Good Morning, Harsh 🌅*).  
 - Live counters, progress bars, request history.  
 - Interactive request & support cards with media.  
@@ -43,7 +43,7 @@ Sahara bridges **practical aid** and **emotional care**, becoming a one-stop hub
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 | Layer                | Technologies Used |
 |----------------------|-------------------|
@@ -57,16 +57,16 @@ Sahara bridges **practical aid** and **emotional care**, becoming a one-stop hub
 
 ---
 
-## 📸 UI/UX Highlights  
+##  UI/UX Highlights  
 
-- 📱 Mobile-first, responsive, modern design.  
-- ✨ Glassmorphism, gradients, smooth Framer Motion animations.  
-- ♿ Accessibility-first: clear fonts, strong contrast, optional voice guidance.  
-- 🎉 Confetti/spark effects on successful actions.  
+-  Mobile-first, responsive, modern design.  
+-  Glassmorphism, gradients, smooth Framer Motion animations.  
+-  Accessibility-first: clear fonts, strong contrast, optional voice guidance.  
+-  Confetti/spark effects on successful actions.  
 
 ---
 
-## 📜 License  
+##  License  
 
 Sahara Proprietary License
 Copyright (c) 2025 Sahara Team. All rights reserved.
